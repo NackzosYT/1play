@@ -20,6 +20,11 @@ client.user.setGame(`1play | BloodForEver`,'https://www.twitch.tv/bloodserver');
 });
 
 
+
+
+
+
+
 const ytdl = require("ytdl-core");
 const { Client, Util } = require('discord.js');
 const getYoutubeID = require('get-youtube-id');
@@ -341,7 +346,6 @@ function play(guild, song) {
 }
 });
 
-/////////
   
 
 
